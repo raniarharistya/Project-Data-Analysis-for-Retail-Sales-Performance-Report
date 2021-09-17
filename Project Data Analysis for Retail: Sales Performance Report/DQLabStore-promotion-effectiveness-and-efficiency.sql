@@ -29,4 +29,4 @@ WHERE
 GROUP BY
 	years, product_sub_category, product_category
 ORDER BY
-	sales asc;
+	sales desc;
